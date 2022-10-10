@@ -1,0 +1,13 @@
+name: PlayerSDC
+version: '0.0.1-RELEASE'
+main: com.github.white555gamer.playersdc.PlayerSDC
+api-version: 1.19
+authors: [ WHERE_WHITE_, WHERE_WHITE_KUN, WHITE555Gamer ]
+description: PlayerSettings Data Control Plugin.
+
+commands:
+  playersdc:
+    usage: |
+    description: |
+    permission: op
+    permission-message: "ERROR: No Operator Permissions."
